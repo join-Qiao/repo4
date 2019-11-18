@@ -13,4 +13,8 @@ public class TestController {
     public void getNum(){
         return;
     }
+
+    public String getNum1(){
+        return "1";
+    }
 }
